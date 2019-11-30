@@ -20,5 +20,6 @@ gitとgithubの使い方を書く。あとはMarkdownの練習。
 `git remote add origin https://github.com/yasudomi/my_git_man.git`
 5. ローカルリポジトリをプッシュしてリモートリポジトリに反映させる。(push)
 `git push origin master`
+6. 編集してaddしてpushしてみる
 
 
